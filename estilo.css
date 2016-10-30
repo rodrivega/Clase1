@@ -1,0 +1,16 @@
+@import url('http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css');
+
+html {
+    background-color: white;
+    background-image: url('RILDbKdn.jpg');
+    background-repeat: no-repeat;
+    padding: 35px;
+    background-origin: content-box;
+} 
+.plan {
+  display: block;
+  border: 3px solid red;
+  padding: 10px;
+  box-sizing: border-box;
+
+}
